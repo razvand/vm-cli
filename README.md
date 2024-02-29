@@ -10,7 +10,7 @@ In this workshop we use the [QEMU](https://www.qemu.org/) command line options
 Make sure you have the `qemu-system-x86` and `qemu-system-arm` or equivalent packages install on your system.
 
 The GNU toolchain (GCC, Make) is also required.
-On a Debian/Ubuntu system, installing the `build-essentials` package should be enough.
+On a Debian/Ubuntu system, installing the `build-essential` package should be enough.
 
 ## Short Intro
 
